@@ -10,6 +10,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
+//Created by: Mahmoud Sallam, Computer Science Graduate - Faculty of Information Technology and Computer Science, Yarmouk University.
 public class Connect {
 	
 	private  static String baseLink = "https://sis.yu.edu.jo/pls/yuapps/";
