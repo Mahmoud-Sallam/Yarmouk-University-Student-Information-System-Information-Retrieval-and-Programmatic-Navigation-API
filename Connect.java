@@ -34,7 +34,7 @@ public class Connect {
 
 
 	private static	ArrayList<ArrayList<String>> Current = new ArrayList<ArrayList<String>>();
-	private static	ArrayList<ArrayList<String>> Summer = new ArrayList<ArrayList<String>>();
+	private static	ArrayList<ArrayList<String>> Summer = newhttps://www.linkedin.com/in/mahmoud-sallam-40165b17b/ ArrayList<ArrayList<String>>();
 	private static	ArrayList<ArrayList<String>> Second = new ArrayList<ArrayList<String>>();
 	private static	ArrayList<ArrayList<String>> First = new ArrayList<ArrayList<String>>();
 
@@ -430,7 +430,7 @@ public class Connect {
 		        	   i++;
 		           }
 		         //  loginParamsValues[10] = "2015901115";
-		        //  loginParamsValues[12] = "fukdatshit9631";
+		        //  loginParamsValues[12] = "...";
 			} catch (IOException e) {
 				System.out.println("Something went wrong while trying to connect to sis0_LoginPage\n");
 				e.printStackTrace();
